@@ -17,6 +17,7 @@ How to Run:
 2. Open terminal in the folder
 3. Compile: javac RideSharingApp.java
 4. Run: java RideSharingApp
+
 5.Just click on the run code option or press ctrl+alt+n.
 
 Example Run:
